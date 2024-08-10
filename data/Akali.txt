@@ -1,0 +1,35 @@
+Bloodthirster
+Edge of Night
+Infinity Edge
+-1.14
+Place Change
+0.8%
+Play Rate
+Edge of Night
+Infinity Edge
+Hand Of Justice
+-0.43
+Place Change
+3.2%
+Play Rate
+Edge of Night
+Sterak's Gage
+Hand Of Justice
+-0.55
+Place Change
+0.9%
+Play Rate
+Edge of Night
+Last Whisper
+Hand Of Justice
+-1.04
+Place Change
+0.4%
+Play Rate
+Edge of Night
+Titan's Resolve
+Hand Of Justice
+-1.05
+Place Change
+0.4%
+Play Rate

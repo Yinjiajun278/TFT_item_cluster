@@ -1,0 +1,33 @@
+Pyro Emblem
+Bloodthirster
+Titan's Resolve
+-1.28
+Place Change
+0.6%
+Play Rate
+Bloodthirster
+Infinity Edge
+Titan's Resolve
+-0.55
+Place Change
+0.6%
+Play Rate
+Bloodthirster
+Sterak's Gage
+Titan's Resolve
+-0.05
+Place Change
+1.2%
+Play Rate
+Bloodthirster
+Guinsoo's Rageblade
+Titan's Resolve
+-0.03
+Place Change
+1.3%
+Play Rate
+Bloodthirster
+-0.30
+Place Change
+0.6%
+Play Rate

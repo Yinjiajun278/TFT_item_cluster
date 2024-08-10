@@ -1,0 +1,35 @@
+Blue Buff
+Nashor's Tooth
+Rabadon's Deathcap
+-0.40
+Place Change
+2.5%
+Play Rate
+Blue Buff
+Jeweled Gauntlet
+Nashor's Tooth
+-0.30
+Place Change
+3.7%
+Play Rate
+Blue Buff
+Nashor's Tooth
+Spear of Shojin
+-0.17
+Place Change
+2.9%
+Play Rate
+Blue Buff
+Hextech Gunblade
+Nashor's Tooth
+-0.46
+Place Change
+0.6%
+Play Rate
+Blue Buff
+Nashor's Tooth
+Giant Slayer
+-0.15
+Place Change
+0.5%
+Play Rate

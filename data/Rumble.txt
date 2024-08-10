@@ -1,0 +1,35 @@
+Dragon's Claw
+Gargoyle Stoneplate
+Redemption
+-0.36
+Place Change
+0.2%
+Play Rate
+Dragon's Claw
+Redemption
+Warmog's Armor
+-0.71
+Place Change
+0.1%
+Play Rate
+Crownguard
+Gargoyle Stoneplate
+Warmog's Armor
+-0.51
+Place Change
+0.1%
+Play Rate
+Dragon's Claw
+Gargoyle Stoneplate
+Steadfast Heart
+-0.41
+Place Change
+0.2%
+Play Rate
+Dragon's Claw
+Steadfast Heart
+Redemption
+-0.54
+Place Change
+0.1%
+Play Rate

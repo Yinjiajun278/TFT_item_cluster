@@ -1,0 +1,255 @@
+Character Analysis:
+===================
+
+Character: Ahri
+BIS: Blue Buff, Jeweled Gauntlet, Rabadon's Deathcap
+Core Items: Jeweled Gauntlet
+Non-Core Item Clusters:
+  Nashor's Tooth, Rabadon's Deathcap
+  Blue Buff, Spear of Shojin
+
+Character: Akali
+BIS: Bloodthirster, Edge of Night, Infinity Edge
+Core Items: Hand Of Justice, Edge of Night
+Non-Core Item Clusters:
+  Infinity Edge
+
+Character: Blitzcrank
+BIS: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Core Items: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+No significant non-core item clusters found.
+
+Character: Briar
+BIS: Bloodthirster, Edge of Night, Titan's Resolve
+Core Items: Titan's Resolve, Bloodthirster
+Non-Core Item Clusters:
+  Quicksilver, Sterak's Gage
+  Edge of Night, Hand Of Justice
+
+Character: Camille
+BIS: Bloodthirster, Edge of Night, Sterak's Gage
+Core Items: Edge of Night, Bloodthirster, Sterak's Gage
+No significant non-core item clusters found.
+Items that can be built multiple times:
+  Sterak's Gage (twice)
+
+Character: Cassiopeia
+BIS: Guinsoo's Rageblade, Guinsoo's Rageblade, Giant Slayer
+Core Items: Guinsoo's Rageblade
+Non-Core Item Clusters:
+  Giant Slayer, Hextech Gunblade, Statikk Shiv
+Items that can be built multiple times:
+  Guinsoo's Rageblade (thrice)
+
+Character: Ezreal
+BIS: Infinity Edge, Red Buff, Spear of Shojin
+Core Items: Red Buff, Infinity Edge
+Non-Core Item Clusters:
+  Last Whisper, Spear of Shojin
+  Giant Slayer, Guardbreaker
+
+Character: Fiora
+BIS: Bloodthirster, Last Whisper, Sterak's Gage
+Core Items: Bloodthirster, Sterak's Gage
+Non-Core Item Clusters:
+  Edge of Night
+  Infinity Edge, Last Whisper, Titan's Resolve
+
+Character: Galio
+BIS: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Core Items: Dragon's Claw
+Non-Core Item Clusters:
+  Warmog's Armor
+  Steadfast Heart
+  Gargoyle Stoneplate
+
+Character: Hecarim
+BIS: Ionic Spark, Sunfire Cape, Redemption
+Core Items: 
+Non-Core Item Clusters:
+  Sunfire Cape
+  Redemption
+
+Character: Hwei
+BIS: Blue Buff, Nashor's Tooth, Rabadon's Deathcap
+Core Items: Nashor's Tooth
+Non-Core Item Clusters:
+  Jeweled Gauntlet, Morellonomicon, Rabadon's Deathcap
+  Blue Buff, Spear of Shojin
+
+Character: Jinx
+BIS: Guinsoo's Rageblade, Runaan's Hurricane, Runaan's Hurricane
+Core Items: Guinsoo's Rageblade
+Non-Core Item Clusters:
+  Runaan's Hurricane
+  Last Whisper
+Items that can be built multiple times:
+  Guinsoo's Rageblade (twice)
+  Runaan's Hurricane (twice)
+
+Character: Kalista
+BIS: Guinsoo's Rageblade, Last Whisper, Red Buff
+Core Items: Last Whisper, Red Buff, Guinsoo's Rageblade
+No significant non-core item clusters found.
+
+Character: Karma
+BIS: Blue Buff, Nashor's Tooth, Red Buff
+Core Items: Red Buff
+Non-Core Item Clusters:
+  Archangel's Staff, Nashor's Tooth, Rabadon's Deathcap
+  Blue Buff, Spear of Shojin
+
+Character: Kassadin
+BIS: Bloodthirster, Nashor's Tooth, Quicksilver
+Core Items: Bloodthirster
+Non-Core Item Clusters:
+  Guinsoo's Rageblade, Nashor's Tooth
+  Archangel's Staff, Edge of Night, Quicksilver
+
+Character: Kog'Maw
+BIS: Infinity Edge, Red Buff, Spear of Shojin
+Core Items: Last Whisper, Spear of Shojin
+Non-Core Item Clusters:
+  Giant Slayer, Infinity Edge, Red Buff
+
+Character: Lillia
+BIS: Dragon's Claw, Gargoyle Stoneplate, Ionic Spark
+Core Items: Dragon's Claw, Ionic Spark
+Non-Core Item Clusters:
+  Gargoyle Stoneplate, Warmog's Armor
+
+Character: Mordekaiser
+BIS: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Core Items: Dragon's Claw, Warmog's Armor
+Non-Core Item Clusters:
+  Bramble Vest, Gargoyle Stoneplate, Steadfast Heart
+
+Character: Nami
+BIS: Red Buff, Spear of Shojin, Statikk Shiv
+Core Items: Spear of Shojin
+Non-Core Item Clusters:
+  Adaptive Helm, Statikk Shiv
+  Morellonomicon, Red Buff
+Items that can be built multiple times:
+  Spear of Shojin (twice)
+
+Character: Nasus
+BIS: Dragon's Claw, Gargoyle Stoneplate, Redemption
+Core Items: Gargoyle Stoneplate, Warmog's Armor
+Non-Core Item Clusters:
+  Dragon's Claw, Redemption, Steadfast Heart
+
+Character: Neeko
+BIS: Dragon's Claw, Steadfast Heart, Redemption
+Core Items: Redemption
+Non-Core Item Clusters:
+  Bramble Vest, Gargoyle Stoneplate, Steadfast Heart
+  Dragon's Claw, Sunfire Cape
+Items that can be built multiple times:
+  Gargoyle Stoneplate (twice)
+
+Character: Nilah
+BIS: Bloodthirster, Infinity Edge, Titan's Resolve
+Core Items: Titan's Resolve, Bloodthirster
+No significant non-core item clusters found.
+
+Character: Norra
+BIS: Jeweled Gauntlet, Rabadon's Deathcap, Spear of Shojin
+Core Items: Spear of Shojin
+Non-Core Item Clusters:
+  Archangel's Staff, Morellonomicon
+  Nashor's Tooth, Statikk Shiv
+
+Character: Nunu
+BIS: Archangel's Staff, Dragon's Claw, Warmog's Armor
+Core Items: Dragon's Claw, Warmog's Armor
+Non-Core Item Clusters:
+  Redemption
+  Archangel's Staff, Crownguard
+
+Character: Olaf
+BIS: Bloodthirster, Sterak's Gage, Hand Of Justice
+Core Items: Titan's Resolve, Hand Of Justice, Bloodthirster, Sterak's Gage
+No significant non-core item clusters found.
+
+Character: Poppy
+BIS: Bramble Vest, Dragon's Claw, Warmog's Armor
+Core Items: 
+Non-Core Item Clusters:
+  Warmog's Armor
+  Gargoyle Stoneplate
+  Dragon's Claw, Ionic Spark
+
+Character: Rakan
+BIS: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Core Items: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Non-Core Item Clusters:
+  Redemption, Steadfast Heart
+
+Character: Rumble
+BIS: Dragon's Claw, Gargoyle Stoneplate, Redemption
+Core Items: Dragon's Claw
+Non-Core Item Clusters:
+  Warmog's Armor
+  Steadfast Heart
+  Gargoyle Stoneplate
+  Redemption
+
+Character: Ryze
+BIS: Archangel's Staff, Guinsoo's Rageblade, Jeweled Gauntlet
+Core Items: Guinsoo's Rageblade
+Non-Core Item Clusters:
+  Jeweled Gauntlet, Spear of Shojin
+  Archangel's Staff, Morellonomicon
+Items that can be built multiple times:
+  Guinsoo's Rageblade (twice)
+
+Character: Shyvana
+BIS: Gargoyle Stoneplate, Steadfast Heart, Redemption
+Core Items: Steadfast Heart, Dragon's Claw
+Non-Core Item Clusters:
+  Warmog's Armor
+  Redemption
+
+Character: Swain
+BIS: Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Core Items: Dragon's Claw, Gargoyle Stoneplate
+Non-Core Item Clusters:
+  Redemption, Steadfast Heart, Warmog's Armor
+
+Character: Syndra
+BIS: Guinsoo's Rageblade, Nashor's Tooth, Spear of Shojin
+Core Items: Spear of Shojin, Guinsoo's Rageblade
+No significant non-core item clusters found.
+Items that can be built multiple times:
+  Guinsoo's Rageblade (twice)
+
+Character: Varus
+BIS: Deathblade, Infinity Edge, Last Whisper
+Core Items: Last Whisper, Infinity Edge
+Non-Core Item Clusters:
+  Spear of Shojin
+
+Character: Wukong
+BIS: Dragon's Claw, Gargoyle Stoneplate, Gargoyle Stoneplate
+Core Items: Gargoyle Stoneplate
+No significant non-core item clusters found.
+Items that can be built multiple times:
+  Gargoyle Stoneplate (thrice)
+
+Character: Zoe
+BIS: Blue Buff, Nashor's Tooth, Rabadon's Deathcap
+Core Items: Nashor's Tooth, Blue Buff
+No significant non-core item clusters found.
+
+
+Overall Cluster Hierarchy:
+===================
+
+Top 5 non-overlapping clusters:
+1. Spear of Shojin, Blue Buff
+2. Archangel's Staff, Runaan's Hurricane, Hextech Gunblade, Deathblade
+3. Bloodthirster, Sterak's Gage, Edge of Night, Titan's Resolve, Hand Of Justice, Quicksilver
+4. Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor, Redemption, Steadfast Heart, Bramble Vest
+5. Nashor's Tooth, Red Buff, Morellonomicon, Jeweled Gauntlet, Rabadon's Deathcap, Statikk Shiv
+6. Guinsoo's Rageblade, Last Whisper, Infinity Edge, Giant Slayer

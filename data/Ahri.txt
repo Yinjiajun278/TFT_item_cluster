@@ -1,0 +1,35 @@
+Blue Buff
+Jeweled Gauntlet
+Rabadon's Deathcap
+-0.94
+Place Change
+0.9%
+Play Rate
+Blue Buff
+Nashor's Tooth
+Rabadon's Deathcap
+-0.78
+Place Change
+0.6%
+Play Rate
+Jeweled Gauntlet
+Rabadon's Deathcap
+Spear of Shojin
+-0.49
+Place Change
+0.4%
+Play Rate
+Blue Buff
+Jeweled Gauntlet
+Nashor's Tooth
+-0.03
+Place Change
+1.2%
+Play Rate
+Jeweled Gauntlet
+Spear of Shojin
+Statikk Shiv
+-1.32
+Place Change
+0.1%
+Play Rate

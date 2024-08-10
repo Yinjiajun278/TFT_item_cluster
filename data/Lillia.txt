@@ -1,0 +1,34 @@
+Unstable Treasure Chest
+Unstable Treasure Chest
+-0.98
+Place Change
+0.5%
+Play Rate
+Dragon's Claw
+Gargoyle Stoneplate
+Ionic Spark
+-0.68
+Place Change
+0.2%
+Play Rate
+Dragon's Claw
+Ionic Spark
+Warmog's Armor
+-0.80
+Place Change
+0.1%
+Play Rate
+Ionic Spark
+Sunfire Cape
+Redemption
+-1.19
+Place Change
+0.1%
+Play Rate
+Bramble Vest
+Dragon's Claw
+Warmog's Armor
+-0.20
+Place Change
+0.2%
+Play Rate

@@ -1,0 +1,35 @@
+Bramble Vest
+Dragon's Claw
+Warmog's Armor
+-0.36
+Place Change
+1.0%
+Play Rate
+Gargoyle Stoneplate
+Ionic Spark
+Warmog's Armor
+-0.76
+Place Change
+0.4%
+Play Rate
+Bloodthirster
+Sterak's Gage
+Hand Of Justice
+-1.01
+Place Change
+0.3%
+Play Rate
+Dragon's Claw
+Steadfast Heart
+Warmog's Armor
+-0.63
+Place Change
+0.4%
+Play Rate
+Dragon's Claw
+Gargoyle Stoneplate
+Sunfire Cape
+-0.90
+Place Change
+0.2%
+Play Rate

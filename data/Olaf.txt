@@ -1,0 +1,33 @@
+Bloodthirster
+Sterak's Gage
+Hand Of Justice
+-0.41
+Place Change
+0.6%
+Play Rate
+Bloodthirster
+Sterak's Gage
+Titan's Resolve
++0.01
+Place Change
+2.6%
+Play Rate
+Sterak's Gage
+Titan's Resolve
+Hand Of Justice
++0.06
+Place Change
+0.9%
+Play Rate
+Bloodthirster
+Titan's Resolve
+Hand Of Justice
++0.01
+Place Change
+0.7%
+Play Rate
+Hand Of Justice
+-0.01
+Place Change
+1.1%
+Play Rate

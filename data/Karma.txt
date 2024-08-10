@@ -1,0 +1,35 @@
+Blue Buff
+Nashor's Tooth
+Red Buff
+-0.67
+Place Change
+0.9%
+Play Rate
+Archangel's Staff
+Blue Buff
+Red Buff
+-1.31
+Place Change
+0.3%
+Play Rate
+Blue Buff
+Rabadon's Deathcap
+Red Buff
+-0.54
+Place Change
+0.8%
+Play Rate
+Rabadon's Deathcap
+Red Buff
+Spear of Shojin
+-0.83
+Place Change
+0.5%
+Play Rate
+Nashor's Tooth
+Morellonomicon
+Spear of Shojin
+-0.29
+Place Change
+3.8%
+Play Rate
